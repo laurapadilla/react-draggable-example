@@ -1,2 +1,3 @@
 # react-draggable-example
-Created with CodeSandbox
+
+Example of the react-draggable library
